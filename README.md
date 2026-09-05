@@ -44,5 +44,5 @@ Built with **LangGraph**, **LangChain**, **DeepSeek**, **Google Gemini**, **Tavi
 
 1. **Clone the repository** and navigate into it:
    ```bash
-   git clone [<https://github.com/Ilaye32/Questohive-project.git>]
+   git clone https://github.com/Ilaye32/Questohive-project.git
    cd questohive-ai-agent
